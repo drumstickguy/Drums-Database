@@ -1,0 +1,1 @@
+nasm\ndisasm -b 512 mandelbrot.img > mandelbrot.asm
