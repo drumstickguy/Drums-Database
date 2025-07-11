@@ -1,0 +1,1 @@
+requires gdiconfig.h & msimg32.lib & windows.ico, in this folder
