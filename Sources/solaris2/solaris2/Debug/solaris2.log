@@ -1,0 +1,42 @@
+﻿  solaris2.cpp
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\stuff.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  bytebeat.cpp
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.cpp(14): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.cpp(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.cpp(161): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.cpp(164): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\bytebeat.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  stuff.cpp
+c:\users\radu\source\repos\solaris2\solaris2\stuff.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\stuff.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\stuff.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GDIpayloads.cpp
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\stuff.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(180): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(530): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(589): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(640): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(649): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(892): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(1394): warning C4244: '=': conversion from 'COLORREF' to 'BYTE', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(1508): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(1509): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(1588): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(1589): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(1777): warning C4305: 'argument': truncation from '__int64' to 'DWORD'
+c:\users\radu\source\repos\solaris2\solaris2\gdipayloads.cpp(1777): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  solaris2.vcxproj -> C:\Users\Radu\source\repos\solaris2\Debug\solaris2.exe
+  solaris2.vcxproj -> C:\Users\Radu\source\repos\solaris2\Debug\solaris2.pdb (Full PDB)
