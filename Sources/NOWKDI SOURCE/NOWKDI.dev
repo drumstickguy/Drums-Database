@@ -1,0 +1,62 @@
+[Project]
+FileName=NOWKDI.dev
+Name=NOWKDI
+Type=0
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=NOWKDI_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=-s_@@_-lwinmm_@@_-lntdll_@@_-lkernel32_@@_
+IsCpp=1
+Icon=NOWKDI.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=NOWKDI.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=3
+CompilerSettings=0000000100000000000000000
+UnitCount=1
+
+[VersionInfo]
+Major=-1111
+Minor=-11111
+Release=-2222
+Build=-666
+LanguageID=1033
+CharsetID=1252
+CompanyName=WINDOWS 11 GDI AND TOM
+FileVersion=-1111.-11111.-2222.-666
+FileDescription=BEST GDI MALWARE SETUP
+InternalName=NOWKDI.EXE MALWARE
+LegalCopyright=WINDOWS 11 GDI AND TOM
+LegalTrademarks=WINDOWS 11 GDI AND TOM
+OriginalFilename=NOWKDI.EXE MALWARE
+ProductName=NOWKDI.EXE MALWARE
+ProductVersion=-1111.-11111.-2222.-666
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=main.cpp
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
