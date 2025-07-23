@@ -1,0 +1,5 @@
+January 1 - Simply Displays a MSGBOX wishing a Happy New Year + the current year
+April 1 - Melts the Screen with a inversion effect
+October 31 (Halloween) - the Destructive payload: Overwrites MBR, Kills explorer and lsass, plays scary sounds and displays GDI Effects
+December 25 (Christmas) - Colors the screen to random shades of Red, installs Animated Christmas Tree for Desktop, plays a MIDI version of "Jingle Bells" and shows a MSGBOX wishing Merry Christmas
+The malware checks the date every minute, so no need to logoff or reboot after changing date

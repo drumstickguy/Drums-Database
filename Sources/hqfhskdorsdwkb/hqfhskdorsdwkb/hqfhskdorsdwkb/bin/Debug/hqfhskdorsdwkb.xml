@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+hqfhskdorsdwkb
+</name>
+</assembly>
+<members>
+<member name="T:hqfhskdorsdwkb.My.Resources.Resources">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:hqfhskdorsdwkb.My.Resources.Resources.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:hqfhskdorsdwkb.My.Resources.Resources.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="P:hqfhskdorsdwkb.My.Resources.Resources.Christmas">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Byte[].
+</summary>
+</member>
+<member name="P:hqfhskdorsdwkb.My.Resources.Resources.death">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Byte[].
+</summary>
+</member>
+<member name="P:hqfhskdorsdwkb.My.Resources.Resources.dIIhost86">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Byte[].
+</summary>
+</member>
+<member name="P:hqfhskdorsdwkb.My.Resources.Resources.Rainbow_gradient_fully_saturated_diagonal_svg">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:hqfhskdorsdwkb.My.Resources.Resources.setupbat">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Byte[].
+</summary>
+</member>
+<member name="P:hqfhskdorsdwkb.My.Resources.Resources.xmas">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Byte[].
+</summary>
+</member>
+</members>
+</doc>

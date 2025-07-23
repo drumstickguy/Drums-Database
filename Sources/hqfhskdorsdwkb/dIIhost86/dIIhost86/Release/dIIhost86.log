@@ -1,0 +1,10 @@
+﻿cl : Wiersz polecenia warning D9025: przesłanianie "/sdl-" przez " /GS-"
+cl : Wiersz polecenia warning D9035: Opcja "Zc:forScope-" jest przestarzała i będzie usunięta w przyszłych wydaniach
+  dIIhost86.cpp
+  Trwa generowanie kodu
+  2 of 387 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  dIIhost86.vcxproj -> C:\Users\MSI\source\repos\dIIhost86\Release\dIIhost86.exe
+  dIIhost86.vcxproj -> C:\Users\MSI\source\repos\dIIhost86\Release\dIIhost86.pdb (Full PDB)
