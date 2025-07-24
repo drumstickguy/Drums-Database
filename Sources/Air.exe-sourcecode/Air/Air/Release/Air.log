@@ -1,0 +1,37 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  Air.cpp
+d:\visual studio projects\air.exe-sourcecode\air\air\stuff.h(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\stuff.h(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\stuff.h(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\stuff.h(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\stuff.h(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\stuff.h(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(338): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(397): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(480): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(482): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(483): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(488): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(489): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(490): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(519): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(509): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(510): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(511): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(512): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(515): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(517): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(518): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(597): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(596): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(744): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(745): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(746): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air\air\air.cpp(841): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+  Generating code
+  6 of 32 functions (18.8%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Air.vcxproj -> D:\Visual Studio Projects\Air.exe-sourcecode\Air\Release\Air.exe

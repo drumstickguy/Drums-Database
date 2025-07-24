@@ -1,0 +1,37 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  Air-safety.cpp
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\stuff.h(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\stuff.h(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\stuff.h(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\stuff.h(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\stuff.h(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\stuff.h(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(276): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(335): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(336): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(418): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(420): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(421): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(426): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(427): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(428): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(457): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(447): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(448): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(449): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(450): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(453): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(455): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(456): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(535): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(534): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(682): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(683): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(684): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\air.exe-sourcecode\air-safety\air\air-safety.cpp(779): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+  Generating code
+  1 of 26 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Air.vcxproj -> D:\Visual Studio Projects\Air.exe-sourcecode\Air-safety\Release\Air.exe
