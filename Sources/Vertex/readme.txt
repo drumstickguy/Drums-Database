@@ -1,1 +1,1 @@
-Note: This program was by WiPet from his tutorial, I just recompiled it.
+Note: This program was by WiPet, I got the code from his tutorial and just recompiled it.
