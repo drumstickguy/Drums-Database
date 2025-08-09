@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (cdm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cdmR.cpp
+  Generating code
+  7 of 34 functions (20.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cdm.vcxproj -> D:\Downloads\cdm.exe source code\cdm\Release\cdmR.exe
+  cdm.vcxproj -> D:\Downloads\cdm.exe source code\cdm\Release\cdmR.pdb (Full PDB)
