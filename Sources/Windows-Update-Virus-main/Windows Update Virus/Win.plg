@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Win - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Win.res" /d "_DEBUG" "C:\Users\hual\Desktop\Windows Update Virus\Win.rc"" 
+Creating temporary file "C:\Users\hual\AppData\Local\Temp\RSP278D.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Win.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\hual\Desktop\Windows Update Virus\PictureEx.cpp"
+"C:\Users\hual\Desktop\Windows Update Virus\Win.cpp"
+"C:\Users\hual\Desktop\Windows Update Virus\WinDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\hual\AppData\Local\Temp\RSP278D.tmp" 
+Creating temporary file "C:\Users\hual\AppData\Local\Temp\RSP278E.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Win.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\hual\Desktop\Windows Update Virus\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\hual\AppData\Local\Temp\RSP278E.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Win.pdb" /debug /machine:I386 /out:"Debug/Win.exe" /pdbtype:sept  ".\Debug\PictureEx.obj" ".\Debug\StdAfx.obj" ".\Debug\Win.obj" ".\Debug\WinDlg.obj" ".\Debug\Win.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+PictureEx.cpp
+Win.cpp
+WinDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+Win.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

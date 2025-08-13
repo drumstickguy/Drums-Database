@@ -1,0 +1,302 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\Win.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\Win.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_WIN_DIALOG DIALOGEX 0, 0, 708, 433
+STYLE WS_POPUP | WS_VISIBLE
+EXSTYLE WS_EX_APPWINDOW
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "DesktopIcon2",IDC_DesktopIcon2,"Button",BS_OWNERDRAW | 
+                    NOT WS_VISIBLE | WS_TABSTOP,14,73,50,50
+    CONTROL         "DesktopIcon1",IDC_DesktopIcon1,"Button",BS_OWNERDRAW | 
+                    NOT WS_VISIBLE | WS_TABSTOP,14,9,50,50
+    CONTROL         "DesktopIcon4",IDC_DesktopIcon4,"Button",BS_OWNERDRAW | 
+                    NOT WS_VISIBLE | WS_TABSTOP,14,201,50,50
+    CONTROL         "DesktopIcon5",IDC_DesktopIcon5,"Button",BS_OWNERDRAW | 
+                    NOT WS_VISIBLE | WS_TABSTOP,14,265,50,50
+    CONTROL         "DesktopIcon6",IDC_DesktopIcon6,"Button",BS_OWNERDRAW | 
+                    NOT WS_VISIBLE | WS_TABSTOP,14,329,50,50
+    CONTROL         "",IDC_Loading,"Static",SS_BLACKFRAME | NOT WS_VISIBLE,
+                    251,93,88,43
+    CONTROL         "DesktopIcon3",IDC_DesktopIcon3,"Button",BS_OWNERDRAW | 
+                    NOT WS_VISIBLE | WS_TABSTOP,14,137,50,50
+    CONTROL         "",IDC_GifContent,"Static",SS_BLACKFRAME | NOT 
+                    WS_VISIBLE,395,306,99,37
+    CONTROL         "Close",IDC_Close,"Button",BS_OWNERDRAW | NOT WS_VISIBLE | 
+                    WS_TABSTOP,395,247,99,22
+    CONTROL         "",IDC_Content,"Static",SS_BITMAP | NOT WS_VISIBLE,369,
+                    250,15,14
+    CONTROL         "",IDC_LoadPicture,"Static",SS_BITMAP | NOT WS_VISIBLE,
+                    229,106,15,14
+    CONTROL         "Close2",IDC_Close2,"Button",BS_OWNERDRAW | NOT 
+                    WS_VISIBLE | WS_TABSTOP,395,275,99,22
+    CONTROL         "Start",IDC_StartBUTTON,"Button",BS_OWNERDRAW | NOT 
+                    WS_VISIBLE | WS_TABSTOP,0,406,41,27
+    CONTROL         129,IDC_Taskbar,"Static",SS_BITMAP | NOT WS_VISIBLE | 
+                    WS_DISABLED,0,406,1280,27
+    CONTROL         "",IDC_StartMenu,"Static",SS_BITMAP | NOT WS_VISIBLE,0,
+                    390,15,14
+    CONTROL         224,IDC_TaskbarIcon,"Static",SS_BITMAP | NOT WS_VISIBLE | 
+                    WS_DISABLED,71,407,32,27
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 0,0,0,0
+ PRODUCTVERSION 0,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "Windows Update\0"
+            VALUE "FileVersion", "0, 0, 0, 0\0"
+            VALUE "InternalName", "Windows Update\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2022, Try\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "Windows Update.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Windows Update\0"
+            VALUE "ProductVersion", "0, 0, 0, 0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_Taskbar             BITMAP  DISCARDABLE     "res\\taskbar.bmp"
+IDB_Start               BITMAP  DISCARDABLE     "res\\start.bmp"
+IDB_DesktopIcon2        BITMAP  DISCARDABLE     "res\\桌面图标2.bmp"
+IDB_DesktopIcon2_Null   BITMAP  DISCARDABLE     "res\\桌面图标2 - 无效.bmp"
+IDB_StartMenu           BITMAP  DISCARDABLE     "res\\开始菜单.bmp"
+IDB_TaskbarIcon2        BITMAP  DISCARDABLE     "res\\任务栏图标2.bmp"
+IDB_Desktop             BITMAP  DISCARDABLE     "res\\桌面主背景.bmp"
+IDB_Desktop2            BITMAP  DISCARDABLE     "res\\zm\\z2.bmp"
+IDB_Desktop3            BITMAP  DISCARDABLE     "res\\zm\\z3.bmp"
+IDB_Desktop4            BITMAP  DISCARDABLE     "res\\zm\\z4.bmp"
+IDB_Terror_S1           BITMAP  DISCARDABLE     "res\\skb\\1.bmp"
+IDB_Terror_S2           BITMAP  DISCARDABLE     "res\\skb\\2.bmp"
+IDB_Terror_S3           BITMAP  DISCARDABLE     "res\\skb\\3.bmp"
+IDB_Terror_S4           BITMAP  DISCARDABLE     "res\\skb\\4.bmp"
+IDB_Desktop1            BITMAP  DISCARDABLE     "res\\zm\\z1.bmp"
+IDB_Terror_S5           BITMAP  DISCARDABLE     "res\\skb\\5.bmp"
+IDB_Terror_S6           BITMAP  DISCARDABLE     "res\\skb\\6.bmp"
+IDB_Terror1             BITMAP  DISCARDABLE     "res\\kb\\1.bmp"
+IDB_Terror2             BITMAP  DISCARDABLE     "res\\kb\\2.bmp"
+IDB_Terror3             BITMAP  DISCARDABLE     "res\\kb\\3.bmp"
+IDB_Terror4             BITMAP  DISCARDABLE     "res\\kb\\4.bmp"
+IDB_Terror5             BITMAP  DISCARDABLE     "res\\kb\\5.bmp"
+IDB_Picture1            BITMAP  DISCARDABLE     "res\\pic\\1.bmp"
+IDB_Picture2            BITMAP  DISCARDABLE     "res\\pic\\2.bmp"
+IDB_Picture3            BITMAP  DISCARDABLE     "res\\pic\\3.bmp"
+IDB_Terror6             BITMAP  DISCARDABLE     "res\\kb\\6.bmp"
+IDB_Terror7             BITMAP  DISCARDABLE     "res\\kb\\7.bmp"
+IDB_Eyes                BITMAP  DISCARDABLE     "res\\Eyes.bmp"
+IDB_DesktopIcon1        BITMAP  DISCARDABLE     "res\\此电脑.bmp"
+IDB_DesktopIcon1_Null   BITMAP  DISCARDABLE     "res\\此电脑 - 无效.bmp"
+IDB_DesktopIcon3        BITMAP  DISCARDABLE     "res\\文件夹.bmp"
+IDB_DesktopIcon3_Null   BITMAP  DISCARDABLE     "res\\文件夹 - 无效.bmp"
+IDB_DesktopIcon4        BITMAP  DISCARDABLE     "res\\文本文档.bmp"
+IDB_DesktopIcon4_Null   BITMAP  DISCARDABLE     "res\\桌面图标 - 无效.bmp"
+IDB_DesktopIcon5        BITMAP  DISCARDABLE     "res\\回收站.bmp"
+IDB_DesktopIcon5_Null   BITMAP  DISCARDABLE     "res\\回收站 - 无效.bmp"
+IDB_TXT1                BITMAP  DISCARDABLE     "res\\文本文档1.bmp"
+IDB_TXT2                BITMAP  DISCARDABLE     "res\\文本文档2.bmp"
+IDB_Folder1             BITMAP  DISCARDABLE     "res\\文件夹1.bmp"
+IDB_Folder2             BITMAP  DISCARDABLE     "res\\文件夹2.bmp"
+IDB_TaskbarIcon1        BITMAP  DISCARDABLE     "res\\任务栏此电脑.bmp"
+IDB_TaskbarIcon3        BITMAP  DISCARDABLE     "res\\任务栏文件夹.bmp"
+IDB_TaskbarIcon4        BITMAP  DISCARDABLE     "res\\任务栏日记.bmp"
+IDB_Button1             BITMAP  DISCARDABLE     "res\\Button1.bmp"
+IDB_Button2             BITMAP  DISCARDABLE     "res\\Button2.bmp"
+IDB_Button2_NO          BITMAP  DISCARDABLE     "res\\Button2_NO.bmp"
+IDB_DesktopIcon6        BITMAP  DISCARDABLE     "res\\再见，世界.bmp"
+IDB_LoadTXT1            BITMAP  DISCARDABLE     "res\\ks\\1.bmp"
+IDB_LoadTXT2            BITMAP  DISCARDABLE     "res\\ks\\2.bmp"
+IDB_LoadTXT3            BITMAP  DISCARDABLE     "res\\ks\\3.bmp"
+IDB_LoadTXT4            BITMAP  DISCARDABLE     "res\\ks\\4.bmp"
+IDB_Blue                BITMAP  DISCARDABLE     "res\\ks\\blue.bmp"
+IDB_DesktopIcon5_Q      BITMAP  DISCARDABLE     "res\\回收站 - 清空.bmp"
+IDB_TaskbarIcon6        BITMAP  DISCARDABLE     "res\\任务栏图标世界再见.bmp"
+IDB_TaskbarIconNull     BITMAP  DISCARDABLE     "res\\Null.bmp"
+IDB_LoadBackground1     BITMAP  DISCARDABLE     "res\\LoadBackground1.bmp"
+IDB_Black               BITMAP  DISCARDABLE     "res\\Black.bmp"
+IDB_Windows             BITMAP  DISCARDABLE     "res\\无标题2.bmp"
+IDB_User                BITMAP  DISCARDABLE     "res\\无标题.bmp"
+IDB_Terror8             BITMAP  DISCARDABLE     "res\\kb\\8.bmp"
+IDB_BlurredScreen1      BITMAP  DISCARDABLE     "res\\on\\1.bmp"
+IDB_BlurredScreen2      BITMAP  DISCARDABLE     "res\\on\\2.bmp"
+IDB_BlurredScreen3      BITMAP  DISCARDABLE     "res\\on\\3.bmp"
+IDB_BlurredScreen4      BITMAP  DISCARDABLE     "res\\on\\4.bmp"
+IDB_BlurredScreen5      BITMAP  DISCARDABLE     "res\\on\\5.bmp"
+IDB_BlurredScreen6      BITMAP  DISCARDABLE     "res\\on\\6.bmp"
+IDB_StartMenu2          BITMAP  DISCARDABLE     "res\\开始菜单2.bmp"
+IDB_Button01            BITMAP  DISCARDABLE     "res\\Button01.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_TheEnd              WAVE    DISCARDABLE     "res\\CREEPY.wav"
+IDB_TerrorMusic1        WAVE    DISCARDABLE     "res\\Music\\1.wav"
+IDB_TerrorMusic2        WAVE    DISCARDABLE     "res\\Music\\2.wav"
+IDB_TerrorMusic3        WAVE    DISCARDABLE     "res\\Music\\3.wav"
+IDB_TerrorMusic4        WAVE    DISCARDABLE     "res\\Music\\4.wav"
+IDB_TerrorMusic5        WAVE    DISCARDABLE     "res\\Music\\5.wav"
+IDR_Appear              WAVE    DISCARDABLE     "res\\doog.wav"
+IDR_Appear2             WAVE    DISCARDABLE     "res\\doog2.wav"
+IDR_Recycle             WAVE    DISCARDABLE     "res\\Windows Recycle.wav"
+IDR_BackgroundMusic     WAVE    DISCARDABLE     "res\\背景音乐.wav"
+IDB_TerrorMusic6        WAVE    DISCARDABLE     "res\\Music\\6.wav"
+IDR_IDB_BlurredScreen   WAVE    DISCARDABLE     "res\\BlurredScreen.wav"
+IDR_WinLoad             WAVE    DISCARDABLE     "res\\winload.wav"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// GIF
+//
+
+IDR_GIF1                GIF     DISCARDABLE     "res\\gif.gif"
+IDR_GIF2                GIF     DISCARDABLE     "res\\load.gif"
+IDR_GIF3                GIF     DISCARDABLE     "res\\load2.gif"
+IDR_GIF4                GIF     DISCARDABLE     "res\\load3.gif"
+IDR_GIF5                GIF     DISCARDABLE     "res\\gif2.gif"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 Win(&A)..."
+END
+
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\Win.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
