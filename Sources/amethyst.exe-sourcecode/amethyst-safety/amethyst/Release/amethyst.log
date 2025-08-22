@@ -1,0 +1,36 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  amethyst.cpp
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(241): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(248): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(273): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(296): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(334): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(480): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(552): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(553): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(523): warning C4101: 'hslcolor': unreferenced local variable
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(539): warning C4101: 'rgbquadCopy': unreferenced local variable
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(578): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(580): warning C4305: '+=': truncation from 'double' to 'FLOAT'
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(649): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(653): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(699): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(703): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(725): warning C4244: 'initializing': conversion from 'LONG' to 'FLOAT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(726): warning C4244: 'initializing': conversion from 'LONG' to 'FLOAT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(777): warning C4101: 'hslcolor': unreferenced local variable
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(790): warning C4101: 'rgbquadCopy': unreferenced local variable
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(942): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(947): warning C4305: '+=': truncation from 'double' to 'FLOAT'
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(959): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(973): warning C4293: '>>': shift count negative or too big, undefined behavior
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(973): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(987): warning C4293: '>>': shift count negative or too big, undefined behavior
+d:\visual studio projects\amethyst.exe-sourcecode\amethyst-safety\amethyst\amethyst.cpp(1015): warning C4293: '>>': shift count negative or too big, undefined behavior
+  Generating code
+  1 of 40 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  amethyst.vcxproj -> D:\Visual Studio Projects\amethyst.exe-sourcecode\amethyst-safety\Release\amethyst.exe
