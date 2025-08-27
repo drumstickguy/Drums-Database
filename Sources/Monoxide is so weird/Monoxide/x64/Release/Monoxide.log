@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  callbacks.c
+  color.c
+  destruction.c
+  extra_payloads.c
+  main.c
+  math.c
+  payloads.c
+d:\downloads\monoxide\monoxide-main\monoxide\payloads.c(64): warning C4204: nonstandard extension used: non-constant aggregate initializer
+d:\downloads\monoxide\monoxide-main\monoxide\payloads.c(65): warning C4204: nonstandard extension used: non-constant aggregate initializer
+  threads.c
+  Generating code
+  All 83 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Monoxide.vcxproj -> D:\Downloads\Monoxide\Monoxide-main\x64\Release\Monoxide is so weirdx64.exe
