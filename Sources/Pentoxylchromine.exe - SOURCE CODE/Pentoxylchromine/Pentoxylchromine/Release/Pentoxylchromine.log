@@ -1,0 +1,6 @@
+﻿  Génération de code en cours
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 89 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\zouzo\Desktop\Pentoxylchromine.exe - SOURCE CODE\Pentoxylchromine\Pentoxylchromine\Pentoxylchromine.cpp(2465): warning C4715: 'WinMain' : les chemins de contrôle ne retournent pas tous une valeur
+  Fin de la génération du code
+  Pentoxylchromine.vcxproj -> C:\Users\zouzo\Desktop\Pentoxylchromine.exe - SOURCE CODE\Pentoxylchromine\Release\Pentoxylchromine.exe
