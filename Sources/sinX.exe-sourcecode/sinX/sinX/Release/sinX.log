@@ -1,0 +1,34 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  sinX.cpp
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(329): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(346): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(346): warning C4244: 'initializing': conversion from 'FLOAT' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(451): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(430): warning C4101: 'hslcolor': unreferenced local variable
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(443): warning C4101: 'rgbquadCopy': unreferenced local variable
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(516): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(540): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(544): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(562): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(566): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(613): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(617): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(646): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(650): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(794): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(795): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(765): warning C4101: 'hslcolor': unreferenced local variable
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(781): warning C4101: 'rgbquadCopy': unreferenced local variable
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(834): warning C4293: '>>': shift count negative or too big, undefined behavior
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(834): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(848): warning C4293: '>>': shift count negative or too big, undefined behavior
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(848): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(862): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(890): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+d:\visual studio projects\sinx.exe-sourcecode\sinx\sinx\sinx.cpp(904): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating code
+  17 of 40 functions (42.5%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sinX.vcxproj -> D:\Visual Studio Projects\sinX.exe-sourcecode\sinX\Release\sinX.exe
