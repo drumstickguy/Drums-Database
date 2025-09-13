@@ -1,0 +1,49 @@
+﻿  Tetraphenylbenzane.cpp
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(142,18): warning C4244: 'return' : conversion de 'double' en 'FLOAT', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(221,13): warning C4552: '<' : résultat de l'expression non utilisé
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(231,19): warning C4552: '<' : résultat de l'expression non utilisé
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(236,22): warning C4552: '<' : résultat de l'expression non utilisé
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(603,54): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(605,19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(606,19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(660,24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(661,24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(646,17): warning C4101: 'rgbquadCopy' : variable locale non référencée
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(697,54): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(699,19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(700,19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(715,54): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(723,19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(724,19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(801,24): warning C4244: 'initialisation' : conversion de 'long double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(802,24): warning C4244: 'initialisation' : conversion de 'long double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(895,19): warning C4101: 'blur' : variable locale non référencée
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(987,24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(988,25): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(989,25): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(963,9): warning C4101: 'hslcolor' : variable locale non référencée
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(976,17): warning C4101: 'rgbquadCopy' : variable locale non référencée
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1071,24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1174,24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1175,24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1177,24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1150,9): warning C4101: 'hslcolor' : variable locale non référencée
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1163,17): warning C4101: 'rgbquadCopy' : variable locale non référencée
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1243,38): warning C4554: '>>' : vérifiez si la priorité des opérateurs n'est pas une cause possible d'erreur ; utilisez des parenthèses pour rendre les priorités plus claires
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1440,125): warning C4305: 'argument' : troncation de '__int64' à 'DWORD'
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1440,125): warning C4309: 'argument' : troncation de valeur de constante
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1453,85): warning C4244: '=' : conversion de 'DWORD' en 'char', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1513,99): warning C4244: '=' : conversion de 'unsigned long' en 'char', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1543,145): warning C4244: '=' : conversion de 'DWORD' en 'char', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1588,55): warning C4244: '=' : conversion de 'DWORD' en 'char', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1603,74): warning C4244: '=' : conversion de 'DWORD' en 'char', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1633,82): warning C4244: '=' : conversion de 'DWORD' en 'char', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1648,117): warning C4244: '=' : conversion de 'DWORD' en 'char', perte possible de données
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1663,67): warning C4244: '=' : conversion de 'DWORD' en 'char', perte possible de données
+  Génération de code en cours
+C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Tetraphenylbenzane\Tetraphenylbenzane.cpp(1862): warning C4715: 'WinMain' : les chemins de contrôle ne retournent pas tous une valeur
+  6 of 152 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Tetraphenylbenzane.vcxproj -> C:\Users\zouzo\Desktop\Tetraphenylbenzane.exe - SOURCE CODE\Tetraphenylbenzane\Release\Tetraphenylbenzane.exe

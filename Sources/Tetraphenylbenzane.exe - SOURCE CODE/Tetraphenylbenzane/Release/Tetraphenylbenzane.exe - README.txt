@@ -1,0 +1,44 @@
+^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨  
+
+(   )              (   )                                    (   )                                     (   ) (   )                                                                                                       ^ ¨  
+ | |_       .--.    | |_      ___ .-.      .---.     .-..    | | .-.     .--.    ___ .-.    ___  ___   | |   | |.-.     .--.    ___ .-.      .--.      .---.   ___ .-.     .--.           .--.    ___  ___    .--.   
+(   __)    /    \  (   __)   (   )   \    / .-, \   /    \   | |/   \   /    \  (   )   \  (   )(   )  | |   | /   \   /    \  (   )   \    /    \    / .-, \ (   )   \   /    \         /    \  (   )(   )  /    \     ^ ¨  
+ | |      |  .-. ;  | |       | ' .-. ;  (__) ; |  ' .-,  ;  |  .-. .  |  .-. ;  |  .-. .   | |  | |   | |   |  .-. | |  .-. ;  |  .-. .   .  .-. |  (__) ; |  |  .-. .  |  .-. ;       |  .-. ;  | |  | |  |  .-. ; 
+ | | ___  |  | | |  | | ___   |  / (___)   .'`  |  | |  . |  | |  | |  |  | | |  | |  | |   | |  | |   | |   | |  | | |  | | |  | |  | |   | |  | |    .'`  |  | |  | |  |  | | |       |  | | |   \ `' /   |  | | |    ^ ¨  
+ | |(   ) |  |/  |  | |(   )  | |         / .'| |  | |  | |  | |  | |  |  |/  |  | |  | |   | '  | |   | |   | |  | | |  |/  |  | |  | |   | |  | |   / .'| |  | |  | |  |  |/  |       |  |/  |   / ,. \   |  |/  | 
+ | | | |  |  ' _.'  | | | |   | |        | /  | |  | |  | |  | |  | |  |  ' _.'  | |  | |   '  `-' |   | |   | |  | | |  ' _.'  | |  | |  (___)-` /  | /  | |  | |  | |  |  ' _.'       |  ' _.'  ' .  ; .  |  ' _.'    ^ ¨  
+ | ' | |  |  .'.-.  | ' | |   | |        ; |  ; |  | |  ' |  | |  | |  |  .'.-.  | |  | |    `.__. |   | |   | '  | | |  .'.-.  | |  | |      '. \   ; |  ; |  | |  | |  |  .'.-.  .-.  |  .'.-.  | |  | |  |  .'.-. 
+ ' `-' ;  '  `-' /  ' `-' ;   | |        ' `-'  |  | `-'  '  | |  | |  '  `-' /  | |  | |    ___ | |   | |   ' `-' ;  '  `-' /  | |  | |    ___ \ '  ' `-'  |  | |  | |  '  `-' / (   ) '  `-' /  | |  | |  '  `-' /    ^ ¨  
+  `.__.    `.__.'    `.__.   (___)       `.__.'_.  | \__.'  (___)(___)  `.__.'  (___)(___)  (   )' |  (___)   `.__.    `.__.'  (___)(___)  (   ) ; | `.__.'_. (___)(___)  `.__.'   `-'   `.__.'  (___)(___)  `.__.'  
+                                                   | |                                       ; `-' '                                        \ `-'  /                                                                    ^ ¨  
+                                                  (___)                                       .__.'                                          ',__.'                                                                  
+                                                                                                                                                                                                                        ^ ¨ 
+
+^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ 
+
+Author: UltraDasher965
+Made in: C++ (most of the malware) and ASM (MBR)
+Creation time: 3 days
+Number of payloads: 15
+Duration time: About 7 and a half seconds
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Author's notes:
+This is by far the best and most insane malware I have done! It's also the first time that my malware has a real MBR payload (unlike Pentoxylchromine) upon restart.
+
+You already know what to do and NOT to do.
+The creator of this malware is not responsible for the potential damage and data loss this program can cause to your PC.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Credits to sixtyfourYT / Wooshydudebro for the MBR payload!
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Pankoza, N17Pro3426, NindowsCahel132, Win11GDIandTom, Abrahamtestgdiviruses and Marlon2210 are NOT allowed to skid from this malware without giving credit or asking for permission..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Hi Crypto NWO, Deca Quitin, fr4ctalz, Number333, tadomi (one of my class friends), linhui27 (one of my class friends), Gabolate, Tiphax (one of my school friends), Abimega7890, VenraTech / Executioner, sixtyfourYT / Wooshydudebro, and you!
+The tester of this malware!

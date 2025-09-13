@@ -1,0 +1,131 @@
+^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨  
+
+(   )              (   )                                    (   )                                     (   ) (   )                                                                                                       ^ ¨  
+ | |_       .--.    | |_      ___ .-.      .---.     .-..    | | .-.     .--.    ___ .-.    ___  ___   | |   | |.-.     .--.    ___ .-.      .--.      .---.   ___ .-.     .--.           .--.    ___  ___    .--.   
+(   __)    /    \  (   __)   (   )   \    / .-, \   /    \   | |/   \   /    \  (   )   \  (   )(   )  | |   | /   \   /    \  (   )   \    /    \    / .-, \ (   )   \   /    \         /    \  (   )(   )  /    \     ^ ¨  
+ | |      |  .-. ;  | |       | ' .-. ;  (__) ; |  ' .-,  ;  |  .-. .  |  .-. ;  |  .-. .   | |  | |   | |   |  .-. | |  .-. ;  |  .-. .   .  .-. |  (__) ; |  |  .-. .  |  .-. ;       |  .-. ;  | |  | |  |  .-. ; 
+ | | ___  |  | | |  | | ___   |  / (___)   .'`  |  | |  . |  | |  | |  |  | | |  | |  | |   | |  | |   | |   | |  | | |  | | |  | |  | |   | |  | |    .'`  |  | |  | |  |  | | |       |  | | |   \ `' /   |  | | |    ^ ¨  
+ | |(   ) |  |/  |  | |(   )  | |         / .'| |  | |  | |  | |  | |  |  |/  |  | |  | |   | '  | |   | |   | |  | | |  |/  |  | |  | |   | |  | |   / .'| |  | |  | |  |  |/  |       |  |/  |   / ,. \   |  |/  | 
+ | | | |  |  ' _.'  | | | |   | |        | /  | |  | |  | |  | |  | |  |  ' _.'  | |  | |   '  `-' |   | |   | |  | | |  ' _.'  | |  | |  (___)-` /  | /  | |  | |  | |  |  ' _.'       |  ' _.'  ' .  ; .  |  ' _.'    ^ ¨  
+ | ' | |  |  .'.-.  | ' | |   | |        ; |  ; |  | |  ' |  | |  | |  |  .'.-.  | |  | |    `.__. |   | |   | '  | | |  .'.-.  | |  | |      '. \   ; |  ; |  | |  | |  |  .'.-.  .-.  |  .'.-.  | |  | |  |  .'.-. 
+ ' `-' ;  '  `-' /  ' `-' ;   | |        ' `-'  |  | `-'  '  | |  | |  '  `-' /  | |  | |    ___ | |   | |   ' `-' ;  '  `-' /  | |  | |    ___ \ '  ' `-'  |  | |  | |  '  `-' / (   ) '  `-' /  | |  | |  '  `-' /    ^ ¨  
+  `.__.    `.__.'    `.__.   (___)       `.__.'_.  | \__.'  (___)(___)  `.__.'  (___)(___)  (   )' |  (___)   `.__.    `.__.'  (___)(___)  (   ) ; | `.__.'_. (___)(___)  `.__.'   `-'   `.__.'  (___)(___)  `.__.'  
+                                                   | |                                       ; `-' '                                        \ `-'  /                                                                    ^ ¨  
+                                                  (___)                                       .__.'                                          ',__.'                                                                  
+                                                                                                                                                                                                                        ^ ¨ 
+
+^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ ^ ¨ 
+
+Auteur : UltraDasher965
+Créé en : C++ (la plupart du malware) et ASM (MBR)
+Durée de création : 3 jours
+Nombre de phases : 15
+Durée : Environ 7 secondes et demie
+Compatibilité : Windows Vista - 11
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Notes de l’auteur :
+C’est de loin le meilleur et le plus fou malware que j’ai créé ! C’est aussi la première fois que mon malware possède une véritable phase du secteur de démarrage (contrairement à Pentoxylchromine) au redémarrage.
+
+Vous savez déjà ce qu'il faut faire et ce qu'il ne faut PAS faire.
+Le créateur de ce logiciel malveillant décline toute responsabilité quant aux dommages et pertes de données potentiels que ce programme pourrait causer à votre ordinateur.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Merci à sixtyfourYT / Wooshydudebro pour la charge utile MBR !
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Pankoza, N17Pro3426, NindowsCahel132, Win11GDIandTom, Abrahamtestgdiviruses et Marlon2210 ne sont PAS autorisés à contourner ce logiciel malveillant sans en mentionner le crédit ou demander l'autorisation.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Salut Crypto NWO, Deca Quitin, fr4ctalz, Number333, tadomi (un de mes camarades de classe), linhui27 (un de mes camarades de classe), Gabolate, Tiphax (un de mes camarades d'école), Abimega7890, VenraTech / Executioner, sixtyfourYT / Wooshydudebro, et toi !
+Le testeur de ce malware !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"syfm" - N17Pro3426
