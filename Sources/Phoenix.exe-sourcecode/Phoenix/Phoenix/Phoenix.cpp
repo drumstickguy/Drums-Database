@@ -303,7 +303,7 @@ BOOL CALLBACK EnumChildProc(HWND hwnd, LPARAM lParam) {
 	return TRUE;
 }
 DWORD WINAPI textz(LPVOID lpParam) {
-	while (1){
+	while (1) {
 		EnumChildWindows(GetForegroundWindow(), &EnumChildProc, NULL);
 		Sleep(1000);
 	}
@@ -1238,7 +1238,7 @@ DWORD WINAPI shader13(LPVOID lpvd)
 				int cx = x - randx;
 				int cy = y - randy;
 
-				//(x²/a²) + (y²+b²) = 1
+				//(xÂ²/aÂ²) + (yÂ²+bÂ²) = 1
 				int zx = (cx * cx) / (a * a);
 				int zy = (cy * cy) / (b * b);
 
