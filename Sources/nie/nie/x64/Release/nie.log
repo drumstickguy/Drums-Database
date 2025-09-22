@@ -1,0 +1,25 @@
+﻿cl : Command line warning D9035: option 'Zc:forScope-' has been deprecated and will be removed in a future release
+  nie.cpp
+nie.cpp(278): warning C4305: 'argument': truncation from '__int64' to 'DWORD'
+nie.cpp(278): warning C4309: 'argument': truncation of constant value
+nie.cpp(373): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+nie.cpp(773): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+nie.cpp(774): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+nie.cpp(934): warning C4305: 'argument': truncation from '__int64' to 'DWORD'
+nie.cpp(934): warning C4309: 'argument': truncation of constant value
+nie.cpp(1026): warning C4101: 'hslcolor': unreferenced local variable
+nie.cpp(1038): warning C4101: 'rgbquadCopy': unreferenced local variable
+nie.cpp(1068): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+nie.cpp(1069): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+nie.cpp(1116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+nie.cpp(1116): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+nie.cpp(1118): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+nie.cpp(1094): warning C4101: 'hslcolor': unreferenced local variable
+nie.cpp(1108): warning C4101: 'rgbquadCopy': unreferenced local variable
+nie.cpp(1170): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+nie.cpp(1282): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating code
+  All 48 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  nie.vcxproj -> E:\Source Codes\nie\x64\Release\nie.exe
+  nie.vcxproj -> E:\Source Codes\nie\x64\Release\nie.pdb (Full PDB)
